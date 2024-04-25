@@ -1,2 +1,3 @@
-Video av serveren startet, jeg legger til en kinobillett som er synlig i databasen og hvordan jeg sletter den:
-https://youtube.com/shorts/416scd1SM0o?si=qsh0Lez4fsOr9yke
+En webapplikasjon hvor du kan bestille kinobiletter og disse bilettene overføres/lagres i en database.
+
+https://youtube.com/shorts/B6Vf5zfpWB0?si=O_zcWXjZlDIz35rC
